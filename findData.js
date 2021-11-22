@@ -4,3 +4,4 @@ const findData = (str, subStr) => {
 };
 
 console.log(findData("I belong to Pune city.", "Pune"));
+console.log(findData("I am Indian and from Nanded", "Nanded"));
